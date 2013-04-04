@@ -18,4 +18,5 @@ have reached that particular point in the sequence of events.
 flow or sequence of actions (e.g. "Viewed landing page -> "Viewed
 signup form" -> "Submitted signup form"). Click on the last step to
 extract a segment of users that have completed the funnel and see
-their distinctive properties with the *Characterize* insight.
+their distinctive properties with
+[Characterize](/explore/bitdeli/characterize).
