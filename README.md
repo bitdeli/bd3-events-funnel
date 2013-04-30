@@ -7,3 +7,7 @@ users by selecting user segments created from other insights.
 Segments can also be created from the funnel by clicking on the
 steps in the chart. The resulting segment will contain all users that
 have reached that particular point in the sequence of events.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bitdeli/bd3-events-funnel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
